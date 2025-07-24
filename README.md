@@ -1,3 +1,7 @@
+APP DE PRUEBA PARA MOSTRAR UN DEMO A LOS CLIENTES.
+
+Se les prenta oomo un MVP (producto minim viable) y de ahis e parte si hay interes por adaptarlo a las nececidades de cada empresa
+
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
